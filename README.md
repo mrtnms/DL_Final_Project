@@ -1,6 +1,6 @@
 # Course Deep Learning: final project
 
-Develop a meme generator that takes any image as input and generates a "funny" caption for that image. 
+Developed a meme generator that takes any image as input and generates a "funny" caption for that image. 
 Training data consists out of 900K memes that cover 300 popular templates, each with thousands of captions. 
 
 ## Architecture
